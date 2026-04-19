@@ -36,8 +36,11 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your-email@gmail.com  
-- 💼 GitHub: https://github.com/your-username  
+
+<p align="center">
+📧 Email:<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+💼 GitHub:<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p> 
 
 ---
 
