@@ -1,6 +1,9 @@
 <div align="center">
 
 <h1>👋 Hi, I'm Mohab Mostafa</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Front-End+React+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+</p>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" height="450px"/><br> 
 
 <h3>💻 Front-End React Developer </h3>
