@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" height="450px"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" height="400px"/><br> 
 
 <h1>👋 Hi, I'm Mohab Mostafa</h1>
 <h3>💻 Front-End React Developer</h3>
