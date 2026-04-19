@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Mohab Mostafa</h1>
+<h1 align="left">👋 Hi, I'm Mohab Mostafa</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Front-End+React+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things" />
 </p>
