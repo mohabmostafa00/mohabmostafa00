@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" height="450px"/><br> 
 
 <h3>💻 Front-End React Developer </h3>
-<p>🚀 Passionate about building modern web applications</p>
+<p align="center">Building responsive & modern web applications using React</p>
 <p>📍 Based in Egypt</p>
 
 </div>
