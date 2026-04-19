@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="center">
 
 <h1>👋 Hi, I'm Mohab Mostafa</h1>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="100%" height="450px"/><br> 
