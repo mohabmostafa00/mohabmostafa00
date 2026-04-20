@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 💻 I am a Front-End Developer specialized in React<img 
+- 💻 I am a Front-End Developer specialized in React
 - 🛒 I have built a full E-Commerce website
 - 📚 I enjoy learning and improving my skills continuously
 - 🎯 My goal is to become a professional Front-End Developer
