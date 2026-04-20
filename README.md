@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I am a Front-End Developer specialized in React<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><
+- 💻 I am a Front-End Developer specialized in React<img 
 - 🛒 I have built a full E-Commerce website
 - 📚 I enjoy learning and improving my skills continuously
 - 🎯 My goal is to become a professional Front-End Developer
